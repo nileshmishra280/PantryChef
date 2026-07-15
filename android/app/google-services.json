@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972142974439",
+    "project_id": "pantrychef-bce0b",
+    "storage_bucket": "pantrychef-bce0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972142974439:android:687a21ff3441d0ecd4d942",
+        "android_client_info": {
+          "package_name": "com.example.pantrychef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88yQyB1K4m0nBNkfq4qgsR83SmKo-1w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
